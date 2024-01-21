@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content:center;">Hola soy C1ss7</h1>
+<h1><center>Hola soy Cr1ss7</center></h1>
 
 <!--
 **Cr1ss7/Cr1ss7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
