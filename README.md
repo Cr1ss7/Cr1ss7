@@ -18,8 +18,8 @@
 - 📩: Culmine mis estudios de redes con cursos de `CCNA`.
 - 💻: Me gusta encontrar soluciones a los problemas usando mi conocimientos en `Software`.
 - 🥇: Tengo conocimiento en manejar `Servidores Linux/Windows`, redes `cisco`, programacion web backend con `PHP`, `JAVA`, `C#`, conocimiento basico sobre `ciberseguridad`.
-- 📖: Me encuentro estudiando `Ingenieria en ciencias de la computación`, `Ciberseguridad` y `Python`.
-- 🤓: Intentando sacar la `eJPT`.
+- 🐍: Conocimiento en desarrollo de aplicaciones en consola con `Python`, `Bash`.
+- 📖: Me encuentro estudiando `Ingenieria en ciencias de la computación` y `Ciberseguridad`.
 - 🤔: Actualmente estoy abierto a cualquier `oportunidad de trabajo`, aqui esta [Mi CV](https://drive.google.com/file/d/1fwXTYBLPVJeKLcMdlhXqCB5osgkVY50p/view?usp=drive_link).
 <br>
 
