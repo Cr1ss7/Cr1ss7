@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Cristian Pineda<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C500&center=true&vCenter=true&width=460&lines=Estudiante+Ingenier%C3%ADa+en+Computaci%C3%B3n;Amante+de+la+Ciberseguridad;Conocimiento+en+redes+y+programaci%C3%B3n)](https://git.io/typing-svg)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C500&center=true&vCenter=true&width=460&lines=Estudiante+Ingenier%C3%ADa+en+Computaci%C3%B3n;Amante+de+la+Ciberseguridad;Conocimiento+en+redes+y+programaci%C3%B3n" alt="Typing SVG"/>
 </p>
 
 
