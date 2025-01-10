@@ -15,13 +15,14 @@
 <br><br>
 
 - 📘: Soy `Graduado` de la carrera [Tecnico en ingenieria en computacion](https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion) en [Universidad Don Bosco](https://www.udb.edu.sv/udb/).
-- 📩: Culmine mis estudios de redes con cursos de `CCNA`.
-- 💻: Me gusta encontrar soluciones a los problemas usando mi conocimientos en `Software`.
-- 🥇: Tengo conocimiento en manejar `Servidores Linux/Windows`, redes `cisco`, programacion web backend con `PHP`, `JAVA`, `C#`, conocimiento basico sobre `ciberseguridad`.
-- 🐍: Conocimiento en desarrollo de aplicaciones en consola con `Python`, `Bash`.
+- 📩: Culmine mis estudios de redes con cursos `CCNA`.
+- 🥇: Tengo conocimiento en manejar `Servidores Linux/Windows`, redes `cisco`.
+- 💻: Tengo grandes conocimientos en programacion web backend con `PHP`, `JAVA`, `C#`
+- 🐍: Conocimiento en desarrollo de script  usando lenguajes `Python` y `Bash`.
+- ☁️: Conocimiento base en infraestructura en la nube con `AWS`
 - 📖: Me encuentro estudiando `Ingenieria en ciencias de la computación` y `Ciberseguridad`.
-- 🤔: Actualmente estoy abierto a cualquier `oportunidad de trabajo`, aqui esta [Mi CV](https://drive.google.com/file/d/1fwXTYBLPVJeKLcMdlhXqCB5osgkVY50p/view?usp=drive_link).
 <br>
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
